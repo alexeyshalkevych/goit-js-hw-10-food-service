@@ -1,4 +1,5 @@
+import './js/theme-switch';
 import './js/templating';
-import './styles.css';
+import './css/styles.css';
 
 
